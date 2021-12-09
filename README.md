@@ -1,4 +1,16 @@
 # nodesjs-fundamentos-aula01
 Fundamentos básicos de NodeJS
 
-Autor: Anthony
+Autor: 
+
+mkdir fundamentos-nodejs;
+cd fundamentos-nodejs;
+npm init;
+npm install express -save;
+npm install ejs --save
+
+
+npm install -g nodemon
+
+
+nodemon app
