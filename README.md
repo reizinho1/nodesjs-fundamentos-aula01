@@ -14,3 +14,5 @@ npm install -g nodemon
 
 
 nodemon app
+-----------------------------
+npm i nodemon@2.0.7
